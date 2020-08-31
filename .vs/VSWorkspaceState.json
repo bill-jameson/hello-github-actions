@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\action-a"
+  ],
+  "SelectedNode": "\\action-a\\Dockerfile",
+  "PreviewInSolutionExplorer": false
+}
